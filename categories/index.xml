@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on DATAWRANGLER</title>
-    <link>datawrangl3r.github.io/categories/</link>
+    <link>https://datawrangl3r.github.io/categories/</link>
     <description>Recent content in Categories on DATAWRANGLER</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Jun 2017 11:14:00 -0700</lastBuildDate>
     
-	<atom:link href="datawrangl3r.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://datawrangl3r.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Elasticsearch</title>
-      <link>datawrangl3r.github.io/categories/elasticsearch/</link>
+      <link>https://datawrangl3r.github.io/categories/elasticsearch/</link>
       <pubDate>Thu, 15 Jun 2017 11:14:00 -0700</pubDate>
       
-      <guid>datawrangl3r.github.io/categories/elasticsearch/</guid>
+      <guid>https://datawrangl3r.github.io/categories/elasticsearch/</guid>
       <description></description>
     </item>
     
